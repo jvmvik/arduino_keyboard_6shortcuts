@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="2L0wqscnflNMc3g5m169" name="Page-1">
-        <mxGraphModel dx="276" dy="167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" background="#000000" math="0" shadow="0">
+        <mxGraphModel dx="632" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" background="#37373f" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -44,7 +44,7 @@
                 <mxCell id="23" value="digital input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="220" y="210" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;rotation=90;" vertex="1" parent="1">
+                <mxCell id="24" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="91.5" y="200" width="75" height="19" as="geometry"/>
                 </mxCell>
             </root>
